@@ -1,0 +1,7 @@
+[user]
+	name = Kailiang Nan
+	email = kn171@duke.edu
+[core]
+	editor = vim
+[color]
+	ui = true
