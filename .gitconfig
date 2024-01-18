@@ -3,6 +3,7 @@
 	email = kn171@duke.edu
 [core]
 	editor = vim
+	excludesfile = /home/kiyan/.gitignore_global
 [color]
 	ui = true
 [alias]
